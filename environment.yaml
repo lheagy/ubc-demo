@@ -1,6 +1,7 @@
 name: ubc-demo
 channels:
   - conda-forge
+  - conda
 dependencies:
   - numpy
   - matplotlib
