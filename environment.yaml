@@ -1,0 +1,8 @@
+name: ubc-demo
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - torch
